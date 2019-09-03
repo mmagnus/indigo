@@ -1,1 +1,1 @@
-https://mmagnus.github.io/indigo
+https://mmagnus.github.io/notes/
