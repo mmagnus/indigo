@@ -7,7 +7,6 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
 description: Markdown summary with different options
 
 ---
