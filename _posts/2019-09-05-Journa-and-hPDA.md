@@ -12,4 +12,4 @@ category: blog
 
 # Perfect combination: Journal & hPDA
 
-[](/assets/hpda_journal.png)
+![hpda](/assets/hpda_journal.png)
