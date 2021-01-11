@@ -7,8 +7,6 @@ tag:
 category: blog
 ---
 
-# KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE
-
 KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE #mrnawpigułce
 
 No ok, lecimy dalej. Kolejne ekspert ze Stolika.
