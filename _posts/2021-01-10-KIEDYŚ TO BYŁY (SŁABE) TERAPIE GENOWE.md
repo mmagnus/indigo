@@ -3,7 +3,7 @@ title:  "KIEDYŚ TO BYŁY (SŁABE) TERAPIE GENOWE"
 layout: post
 headerImage: false
 tag:
-- #mrnawpigułce
+- mrnawpigułce
 category: blog
 ---
 
