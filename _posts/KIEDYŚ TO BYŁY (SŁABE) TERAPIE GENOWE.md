@@ -13,6 +13,7 @@ Może Pan się nie orientuje, ale rok 2000 to był już 20 opsss.. 21 lat temu. 
 Jego propozycje, nie, nie używajmy sprawdzonych szczepionek na już w sumie 30K ludzi w badaniach klinicznych (i kilku milionach ludzi zaszczepionych w kilku krajach), ale używajmy leku na którego "obecnie nie ma dowodów na poparcie stosowania hydroksychlorochiny w zakażeniu SARS-CoV-2".
 
 I ten Pan był wiceministrem zdrowia. Na zdrowu to się może i zna, ale na biologii molekularnej to już trochę nie ;-)
-https://pulsmedycyny.pl/hydroksychlorochina-w-leczeniu-covid-19-987518
-https://pl.wikipedia.org/wiki/Terapia_genowa 
-https://stolikwolnosci.pl/epidemiolog-dr-zbigniew-halat-szczepionka-mrna-powoduje-choroby-autoimmunologiczne/
+
+- https://pulsmedycyny.pl/hydroksychlorochina-w-leczeniu-covid-19-987518
+- https://pl.wikipedia.org/wiki/Terapia_genowa 
+- https://stolikwolnosci.pl/epidemiolog-dr-zbigniew-halat-szczepionka-mrna-powoduje-choroby-autoimmunologiczne/
