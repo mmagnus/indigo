@@ -2,7 +2,7 @@
 title:  "CASP-RNA-Sig: “RNA structure prediction with deep learning” by Dr. Yu Li"
 layout: post
 headerImage: false
-tag:
+tag: talks
 category: blog
 
 ---
