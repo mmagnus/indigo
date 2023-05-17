@@ -1,4 +1,11 @@
-CASP-RNA-Sig: “RNA structure prediction with deep learning” by Dr. Yu Li
+---
+title:  "CASP-RNA-Sig: “RNA structure prediction with deep learning” by Dr. Yu Li"
+layout: post
+headerImage: false
+tag:
+category: blog
+
+---
 
 Dear RNA structure enthusiasts,
 
